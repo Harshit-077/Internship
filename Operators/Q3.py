@@ -1,4 +1,4 @@
-# Python allows you to chain comparison operators:
+# Q3: Python allows you to chain comparison operators:
 a = 5
 b = 10
 c = 15
