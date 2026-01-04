@@ -1,0 +1,21 @@
+# Create a date object:
+import datetime
+x = datetime.datetime(2005,3,28)
+print(x.strftime("%A"))
+print(x.strftime("%B"))
+print(x.strftime("%C"))
+print(x.strftime("%D"))
+print(x.strftime("%F"))
+print(x.strftime("%G"))
+print(x.strftime("%H"))
+print(x.strftime("%I"))
+print(x.strftime("%M"))
+print(x.strftime("%R"))
+print(x.strftime("%S"))
+print(x.strftime("%T"))
+print(x.strftime("%U"))
+print(x.strftime("%V"))
+print(x.strftime("%W"))
+print(x.strftime("%X"))
+print(x.strftime("%Y"))
+
